@@ -10,7 +10,24 @@ L'objectif de ce dépôt est de centraliser mes projets d'exploration et d'analy
 
 Le dépôt est organisé comme suit :
 
-Data-Exploration-Projects/ │ ├── project_1_name/ # Dossier du premier projet │ ├── data/ # Dossier contenant les données utilisées │ ├── notebooks/ # Dossier contenant les notebooks d'exploration │ ├── scripts/ # Dossier contenant les scripts Python │ ├── README.md # Description spécifique du projet │ ├── project_2_name/ # Dossier du deuxième projet │ ├── data/ # Dossier contenant les données utilisées │ ├── notebooks/ # Dossier contenant les notebooks d'exploration │ ├── scripts/ # Dossier contenant les scripts Python │ ├── README.md # Description spécifique du projet │ └── project_n_name/ # Dossier d'autres projets
+Data-Exploration-Projects/
+├── project_1_name/          # Dossier du premier projet
+│   ├── data/                # Dossier contenant les données utilisées
+│   ├── notebooks/           # Dossier contenant les notebooks d'exploration
+│   ├── scripts/             # Dossier contenant les scripts Python
+│   └── README.md            # Description spécifique du projet
+│
+├── project_2_name/          # Dossier du deuxième projet
+│   ├── data/                # Dossier contenant les données utilisées
+│   ├── notebooks/           # Dossier contenant les notebooks d'exploration
+│   ├── scripts/             # Dossier contenant les scripts Python
+│   └── README.md            # Description spécifique du projet
+│
+└── project_n_name/          # Dossier d'autres projets
+    ├── data/                # Dossier contenant les données utilisées
+    ├── notebooks/           # Dossier contenant les notebooks d'exploration
+    ├── scripts/             # Dossier contenant les scripts Python
+    └── README.md            # Description spécifique du projet
 
 
 Chaque projet est contenu dans son propre répertoire et est organisé selon la structure suivante :
